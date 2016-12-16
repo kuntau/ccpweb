@@ -2,10 +2,9 @@
 layout: page
 title: Perkhidmatan
 lang: ms
-permalink: /ms/perkhidmatan.html
 ---
 
-# APA YANG KAMI TAWARKAN (KEMUDAHAN, APLIKASI DAN SISTEM)
+### APA YANG KAMI TAWARKAN (KEMUDAHAN, APLIKASI DAN SISTEM)
 
 Untuk menyediakan sistem letak kereta elektronik yang bertaraf dunia, kemudahan yang canggih serta perkhidmatan yang terbaik adalah satu kemestian.
 
@@ -17,6 +16,17 @@ Kepada mereka yang perlu menggunakan petak letak kereta untuk jangka masa panjan
 
 Kepelbagaian kemudahan yang kami tawarkan ini adalah yang menyeluruh, tercanggih, dan terbaik yang pertama di dunia.
 
-<img src="/assets/images/perkhidmatan/1.png">
-<img src="/assets/images/perkhidmatan/2.png">
-<img src="/assets/images/perkhidmatan/3.png">
+<div class="row center-align">
+  <div class="col m4 s12">
+    <h5>TERMINAL CALE CWT</h5>
+    <img class="responsive-img" src="/assets/images/perkhidmatan/1.png">
+  </div>
+  <div class="col m4 s12">
+    <h5>PEMBAYARAN TELEFON</h5>
+    <img class="responsive-img" src="/assets/images/perkhidmatan/2.png">
+  </div>
+  <div class="col m4 s12">
+    <h5>PAS BULANAN &amp; PETA KHAS</h5>
+    <img class="responsive-img" src="/assets/images/perkhidmatan/3.png">
+  </div>
+</div>

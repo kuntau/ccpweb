@@ -3,12 +3,17 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+  <div class="carousel carousel-slider">
+    <a class="carousel-item" href="#1"><img src="/assets/images/carousel/banner_1.jpg" alt=""></a>
+    <a class="carousel-item" href="#2"><img src="/assets/images/carousel/banner_2.jpg" alt=""></a>
+    <a class="carousel-item" href="#3"><img src="/assets/images/carousel/banner_3.jpg" alt=""></a>
+  </div>
 
-  <div class="post-content">
-    {{ content }}
+
+  <div class="container">
+    <div class="row">
+      <div class="col s12">{{ content }}</div>
+    </div>
   </div>
 
 </article>
