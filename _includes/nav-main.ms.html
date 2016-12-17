@@ -1,5 +1,22 @@
-<li class="active"><a href="/">Utama</a></li>
+<li {% if page.url == "/" %} class="active" {% endif %}><a href="/">Utama</a></li>
 <li><a href="/perkhidmatan.html">Perkhidmatan</a></li>
-<li><a class="dropdown-button" href="#" data-activates="nav-products">Produk<i class="material-icons right">arrow_drop_down</i></a></li>
-<li><a class="dropdown-button" href="#" data-activates="nav-operations">Operasi<i class="material-icons right">arrow_drop_down</i></a></li>
+<li>
+  <a class="dropdown-button" href="#" data-activates="nav-products">Produk<i class="material-icons right">arrow_drop_down</i></a>
+  <ul id="nav-products" class="dropdown-content">
+    <li><a href="#">CWT Terminal</a></li>
+    <li><a href="#">Applikasi Telefon Pintar</a></li>
+    <li><a href="#">Pas Bulanan Digital</a></li>
+    <li><a href="#">Petak Khas</a></li>
+  </ul>
+</li>
+<li>
+  <a class="dropdown-button" href="#" data-activates="nav-operations">Operasi<i class="material-icons right">arrow_drop_down</i></a>
+  <ul id="nav-operations" class="dropdown-content">
+    <li><a href="#">Terminal</a></li>
+    <li><a href="#">Pas Bulanan Digital</a></li>
+    <li><a href="#">Petak khas</a></li>
+    <li><a href="#">Kompaun</a></li>
+    <li><a href="#">Kadar</a></li>
+  </ul>
+</li>
 <li><a href="#">Hubungi</a></li>
