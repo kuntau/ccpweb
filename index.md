@@ -2,12 +2,6 @@
 layout: home
 ---
 
-{% for node in site.pages %}
-- {{ node.url }}
-{% endfor %}
-
-## {{ page.url }}
-
 #### CITYCARPARK (JASIN)
 
 Citycarpark adalah penyelesaian bagi masalah letak kereta di Bandaraya Kuala Lumpur. Ianya menyediakan kemudahan letak kereta bahu jalan di bawah pentadbiran Dewan Bandaraya Kuala Lumpur (DBKL) yang selesa untuk awam. Gabungan sistem dan aplikasi yang di perkenalkan oleh Citycarpark dapat mengahsilkan maklumat secara langsung dan analisa yang terperinci dan tepat tentang kaedaah pengunaan tempat letak kereta. Kemudahan sistem yang diperkenalkan ini dapat menghasilkan satu kaedah pengurusan dan perancangan yang lebih teratur dan licin pada masa kini dan juga akan datang.
