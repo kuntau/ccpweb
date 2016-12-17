@@ -1,5 +1,5 @@
 <li {% if page.url == "/" %} class="active" {% endif %}><a href="/">Utama</a></li>
-<li><a href="/perkhidmatan.html">Perkhidmatan</a></li>
+<li {% if page.url == "/perkhidmatan" %} class="active" {% endif %}><a href="/perkhidmatan">Perkhidmatan</a></li>
 <li>
   <a class="dropdown-button" href="#" data-activates="nav-products">Produk<i class="material-icons right">arrow_drop_down</i></a>
   <ul id="nav-products" class="dropdown-content">
