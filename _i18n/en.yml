@@ -1,0 +1,11 @@
+global:
+  welcome: Welcome to
+langs:
+  ms: Malay
+  en: English
+menu:
+  home: home
+  services: What we offer
+  products: product
+  operations: Operation
+  contact: Contact

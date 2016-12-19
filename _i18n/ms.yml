@@ -1,0 +1,11 @@
+global:
+  welcome: Selamat Datang ke
+langs:
+  ms: Malay
+  en: English
+menu:
+  home: Utama
+  services: Perkhidmatan
+  products: Produk
+  operations: Operasi
+  contact: Hubungi

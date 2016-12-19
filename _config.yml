@@ -27,11 +27,17 @@ url: "http://citycarpark.my" # the base hostname & protocol for your site, e.g. 
 twitter_username: kuntau
 github_username:  kuntau
 
+# Multi languages support
+# languages: ["ms", "en"]
+languages: ["en", "ms"]
+exclude_from_localizations: ["javascript", "images", "css", "assets"]
+
 # Build settings
 markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 exclude:
   - Gemfile
   - Gemfile.lock
