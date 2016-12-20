@@ -5,7 +5,7 @@ langs:
   en: English
 menu:
   home: Utama
-  services: Perkhidmatan
-  products: Produk
-  operations: Operasi
+  service: Perkhidmatan
+  product: Produk
+  operation: Operasi
   contact: Hubungi

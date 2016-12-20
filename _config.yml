@@ -28,8 +28,8 @@ twitter_username: kuntau
 github_username:  kuntau
 
 # Multi languages support
-# languages: ["ms", "en"]
-languages: ["en", "ms"]
+languages: ["ms", "en"]
+# languages: ["en", "ms"]
 exclude_from_localizations: ["javascript", "images", "css", "assets"]
 
 # Build settings

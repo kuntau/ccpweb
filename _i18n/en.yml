@@ -4,8 +4,8 @@ langs:
   ms: Malay
   en: English
 menu:
-  home: home
-  services: What we offer
-  products: product
-  operations: Operation
+  home: Home
+  service: What we offer
+  product: product
+  operation: Operation
   contact: Contact
