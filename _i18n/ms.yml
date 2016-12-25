@@ -1,5 +1,6 @@
 global:
   welcome: Selamat Datang ke
+  partner: Rakan Kami
 langs:
   ms: Malay
   en: English
@@ -9,3 +10,14 @@ menu:
   product: Produk
   operation: Operasi
   contact: Hubungi
+menu_product:
+  cwt: CWT Terminal
+  app: Applikasi Telefon Pintar
+  pas_bulanan: Pas Bulanan Digital
+  petak_khas: Petak Khas
+menu_operation:
+  terminal: Terminal
+  pas_bulanan: Pas Bulanan Digital
+  reserve_bay: Petak Khas
+  compound: Kompaun
+  rate: Kadar
