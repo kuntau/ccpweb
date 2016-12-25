@@ -55,8 +55,6 @@ GEM
     lumberjack (1.0.10)
     mercenary (0.3.6)
     method_source (0.8.2)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     multi_json (1.12.1)
     nenv (0.3.0)
     notiffany (0.1.1)
@@ -88,7 +86,6 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   jekyll-multiple-languages-plugin
-  minima (~> 2.0)
 
 BUNDLED WITH
    1.13.6

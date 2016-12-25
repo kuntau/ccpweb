@@ -1,5 +1,7 @@
 $(document).ready(function() {
-  $(".dropdown-button").dropdown();
+  $(".dropdown-button").dropdown({
+    hover: true
+  });
   $(".button-collapse").sideNav();
   $(".slider").slider({
     height: 400,

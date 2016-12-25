@@ -12,15 +12,15 @@ This wide range and diversity services that we offer are the most high-end parki
 
 <div class="row center-align">
   <div class="col m4 s12">
-    <h5>TERMINAL CALE CWT</h5>
+    <h5>CALE TERMINAL CWT</h5>
     <img class="responsive-img" src="/assets/images/perkhidmatan/1.png">
   </div>
   <div class="col m4 s12">
-    <h5>PEMBAYARAN TELEFON</h5>
+    <h5>PHONE PAYMENT</h5>
     <img class="responsive-img" src="/assets/images/perkhidmatan/2.png">
   </div>
   <div class="col m4 s12">
-    <h5>PAS BULANAN &amp; PETA KHAS</h5>
+    <h5>DIGITAL SEASON PASS &amp; RESERVE BAYS</h5>
     <img class="responsive-img" src="/assets/images/perkhidmatan/3.png">
   </div>
 </div>
