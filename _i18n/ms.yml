@@ -10,14 +10,14 @@ menu:
   product: Produk
   operation: Operasi
   contact: Hubungi
-menu_product:
-  cwt: CWT Terminal
-  app: Applikasi Telefon Pintar
-  pas_bulanan: Pas Bulanan Digital
-  petak_khas: Petak Khas
-menu_operation:
-  terminal: Terminal
-  pas_bulanan: Pas Bulanan Digital
-  reserve_bay: Petak Khas
-  compound: Kompaun
-  rate: Kadar
+  products:
+    cwt: CWT Terminal
+    app: Applikasi Telefon Pintar
+    pas_bulanan: Pas Bulanan Digital
+    petak_khas: Petak Khas
+  operations:
+    terminal: Terminal
+    pas_bulanan: Pas Bulanan Digital
+    reserve_bay: Petak Khas
+    compound: Kompaun
+    rate: Kadar

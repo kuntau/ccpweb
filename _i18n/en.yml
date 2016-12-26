@@ -7,17 +7,17 @@ langs:
 menu:
   home: Home
   service: What we offer
-  product: product
+  product: Product
   operation: Operation
   contact: Contact
-menu_product:
-  cwt: CWT Terminal
-  app: Phone Payment
-  pas_bulanan: Digital Season Pass
-  petak_khas: Reserve Bay
-menu_operation:
-  terminal: Terminal Operation
-  pas_bulanan: Digital Season Pass
-  reserve_bay: Reseve Bay
-  compound: Compound
-  rate: Parking Rate
+  products:
+    cwt: CWT Terminal
+    app: Phone Payment
+    pas_bulanan: Digital Season Pass
+    petak_khas: Reserve Bay
+  operations:
+    terminal: Terminal Operation
+    pas_bulanan: Digital Season Pass
+    reserve_bay: Reseve Bay
+    compound: Compound
+    rate: Parking Rate
