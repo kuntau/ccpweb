@@ -13,11 +13,11 @@ menu:
   products:
     cwt: CWT Terminal
     app: Phone Payment
-    pas_bulanan: Digital Season Pass
-    petak_khas: Reserve Bay
+    season_pass: Digital Season Pass
+    reserve_bay: Reserve Bay
   operations:
     terminal: Terminal Operation
-    pas_bulanan: Digital Season Pass
+    season_pass: Digital Season Pass
     reserve_bay: Reseve Bay
     compound: Compound
     rate: Parking Rate

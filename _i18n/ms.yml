@@ -13,11 +13,11 @@ menu:
   products:
     cwt: CWT Terminal
     app: Applikasi Telefon Pintar
-    pas_bulanan: Pas Bulanan Digital
-    petak_khas: Petak Khas
+    season_pass: Pas Bulanan Digital
+    reserve_bay: Petak Khas
   operations:
     terminal: Terminal
-    pas_bulanan: Pas Bulanan Digital
+    season_pass: Pas Bulanan Digital
     reserve_bay: Petak Khas
     compound: Kompaun
     rate: Kadar
