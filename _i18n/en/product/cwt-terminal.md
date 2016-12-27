@@ -39,5 +39,6 @@ Reloading your Touch 'n Go card is easy – you can reload your card in any of t
 - Self-service Kiosks
 - Customer Service Counters at selected Toll Plazas
 - Reload lanes at selected at highways
+{: .browser-default }
 
 With more than 6,000 points nationwide, you can be assured of finding a Touch ‘n Go reload point near you. Let our TNG Finder show you the way.

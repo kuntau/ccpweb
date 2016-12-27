@@ -28,6 +28,7 @@ Samaada anda meletak kereta, menaiki LRT, balik kampung, menonton filem, semua y
 
 **Kemudahan Tambah Nilai** 
 Menambah nilai Touch 'n Go adalah sangat mudah. Anda boleh menambah nilai di mana-mana tempat berikut:
+
 - TNG Hubs
 - TNG Spots
 - Petrol Kiosks
@@ -37,5 +38,6 @@ Menambah nilai Touch 'n Go adalah sangat mudah. Anda boleh menambah nilai di man
 - Kiosks Layan Diri
 - Kaunter Khidmat Pelanggan di Plaza Tol yang terpilih
 - Lorong Tambah Nilai di lebuhraya terpilih
+{: .browser-default }
 
 Dengan lebih 6,000 tempat tambah nilai di seluruh Negara, kami yakin anda boleh mencari tempat tambah nilai berdekatan dengan anda.
