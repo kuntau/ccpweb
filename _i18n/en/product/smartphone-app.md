@@ -4,6 +4,8 @@ Convenience – ‘A click away’ conveniences of the modern street parking tra
 Secure – Guaranteed secured payment gives great content and safety that eliminates the need for cash. JomParking is committed to protecting our customer information. All personal information is protected as specified in the Data Protection Act and will not be shared with third parties.  
 Location – Smart monitoring mobile payment for modern street parking is streamlined with the wide coverage throughout Klang Valley.
 
+![JomParking]({% t image_path.jomparking %}){: .responsive-img }
+
 Just follow the flow:
 1. Login JomParking – download apps - www.jomparking.com in Google Play and Apple App Store to register username and password (one time only)
 2. Register A Car – Key-in the car plate number

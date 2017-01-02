@@ -21,3 +21,5 @@ menu:
     reserve_bay: Petak Khas
     compound: Kompaun
     rate: Kadar
+image_path:
+  jomparking: /assets/images/product/flow_jomparking_ms.png

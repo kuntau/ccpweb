@@ -21,3 +21,5 @@ menu:
     reserve_bay: Reseve Bay
     compound: Compound
     rate: Parking Rate
+image_path:
+  jomparking: /assets/images/product/flow_jomparking_en.png

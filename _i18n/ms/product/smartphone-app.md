@@ -4,6 +4,8 @@ MUDAH – Kemudahan 'di hujung jari' bagi transaksi meletak kenderaan di tempat 
 SELAMAT – Pembayaran dan maklumat dijamin selamat sekaligus menghapuskan penggunaan wang tunai. JomParking komited untuk melindungi maklumat pelanggan kami. Semua maklumat peribadi dilindungi sebagaimana yang dinyatakan dalam Akta Perlindungan Data dan tidak akan dikongsi dengan pihak ketiga.  
 LOKASI – Pemantauan mudah alih prabayar untuk meletak kereta awam yang moden adalah diselaraskan secara meluas di seluruh Lembah Klang.
 
+![JomParking]({% t image_path.jomparking %}){: .responsive-img }
+
 Ikut urutan:
 1. Daftar Masuk JomParking – Muat turun aplikasi - www.jomparking.com di Google Play dan Apple App Store untuk mendaftar nama pengguna dan kata laluan (sekali sahaja)
 2. Daftar Kenderaan – Isikan nombor plat kenderaan
