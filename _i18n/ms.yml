@@ -23,3 +23,6 @@ menu:
     rate: Kadar
 image_path:
   jomparking: /assets/images/product/flow_jomparking_ms.png
+  3step: /assets/images/product/3step_ms.png
+  season_pass: /assets/images/product/season_pass_ms.png
+  reserve_bay: /assets/images/product/reserve_bay_ms.png
