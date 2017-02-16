@@ -18,11 +18,11 @@
 <li>
   <a class="dropdown-button" href="#" data-activates="nav-operations">{% t menu.operation %}<i class="material-icons right">arrow_drop_down</i></a>
   <ul id="nav-operations" class="dropdown-content">
-    <li><a href="#">{% t menu.operations.terminal %}</a></li>
-    <li><a href="#">{% t menu.operations.season_pass %}</a></li>
-    <li><a href="#">{% t menu.operations.reserve_bay %}</a></li>
-    <li><a href="#">{% t menu.operations.compound %}</a></li>
-    <li><a href="#">{% t menu.operations.rate %}</a></li>
+    <li><a href="{% tl terminal_ops %}">{% t menu.operations.terminal %}</a></li>
+    <li><a href="{% tl season_pass %}">{% t menu.operations.season_pass %}</a></li>
+    <li><a href="{% tl reserve_bay %}">{% t menu.operations.reserve_bay %}</a></li>
+    <li><a href="{% tl compound %}">{% t menu.operations.compound %}</a></li>
+    <li><a href="{% tl rate %}">{% t menu.operations.rate %}</a></li>
   </ul>
 </li>
 <!-- {% capture contact %}{% tl ontact %}{% endcapture %} -->
