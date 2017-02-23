@@ -41,6 +41,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
+    jekyll-multiple-languages-plugin (1.5.1)
+      jekyll (>= 2.0, < 4.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -53,8 +55,6 @@ GEM
     lumberjack (1.0.10)
     mercenary (0.3.6)
     method_source (0.8.2)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     multi_json (1.12.1)
     nenv (0.3.0)
     notiffany (0.1.1)
@@ -85,10 +85,7 @@ DEPENDENCIES
   guard-livereload
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-
-RUBY VERSION
-   ruby 2.3.0p0
+  jekyll-multiple-languages-plugin
 
 BUNDLED WITH
    1.13.6
