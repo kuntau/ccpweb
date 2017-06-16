@@ -4,7 +4,7 @@ Citycarpark adalah penyelesaian bagi masalah letak kereta di Bandar Jasin, Melak
 
 Kami menyediakan perkhidmatan yang terdiri daripada pelbagai jenis kaedah pembayaran untuk petak letak kereta seperti :
 1. Pembayaran petak letak kereta menggunakan Syiling
-2. Pembayaran petak letak kereta menggunakan Kad Touch n’ Go
+2. Pembayaran petak letak kereta menggunakan Kad Touch 'n Go
 3. Pembayaran petak letak kereta menggunakan Aplikasi Telefon Pintar
 4. Permohonan & Pembayaran Pas Bulanan Digital menggunakan secara on-line
 5. Permohonan & Pembayaran Petak Khas menggunakan secara on-line
