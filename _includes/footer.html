@@ -14,9 +14,9 @@
 
       <div class="col s6">
         <ul>
-          <li><a href="#">Polisi</a></li>
-          <li><a href="#">Kadar Parkir</a></li>
-          <li><a href="#">Terma &amp; Syarat</a></li>
+          <li><a href="{% tl policies %}">{% t menu.policies %}</a></li>
+          <li><a href="{% tl rate %}">{% t menu.rate %}</a></li>
+          <li><a href="{% tl terms %}">{% t menu.t&c %}</a></li>
         </ul>
       </div>
 
@@ -26,6 +26,14 @@
 
 </footer>
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="/assets/js/bin/materialize.min.js"></script>
-<script type="text/javascript" src="/assets/js/scripts.js"></script>
+<!-- <script src="https://unpkg.com/vue"></script> -->
+<script src="https://unpkg.com/jquery/dist/jquery.min.js"></script>
+<script src="/assets/js/bin/materialize.min.js"></script>
+<script src="/assets/js/modal.js"></script>
+<script src="/assets/js/scripts.js"></script>
+{% capture rate %}{% tl rate %}{% endcapture %}
+{% if pageurl == rate %}
+<script src="https://unpkg.com/vue/dist/vue.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/assets/js/search.js"></script>
+{% endif %}
