@@ -6,7 +6,7 @@ Di bahu jalan, kami menyediakan terminal letak kereta elektonik model CALE CWT. 
 
 Untuk fleksibiliti pembayaran, kami menawarkan kepada anda cara yang lebih mudah untuk membuat pembayaran letak kereta dengan menggunakan aplikasi Telefon Pintar (JomParking). Bayar caj letak kereta anda dengan mudah di mana sahaja anda berada tanpa perlu pergi ke terminal.
 
-Kepada mereka yang perlu menggunakan petak letak kereta untuk jangka masa panjang, kami menawarkan Pas Bulanan Digital dan Petak Khas yang terhad untuk kesemua lokasi di Kuala Lumpur dengan memohon secara on-line. Dengan ini anda boleh meletak kenderaan anda di Kuala Lumpur tanpa perlu risau disaman.
+Kepada mereka yang perlu menggunakan petak letak kereta untuk jangka masa panjang, kami menawarkan Pas Bulanan Digital dan Petak Khas yang terhad untuk kesemua lokasi di Jasin dengan memohon secara on-line. Dengan ini anda boleh meletak kenderaan anda di Jasin tanpa perlu risau disaman.
 
 Kepelbagaian kemudahan yang kami tawarkan ini adalah yang menyeluruh, tercanggih, dan terbaik yang pertama di dunia.
 

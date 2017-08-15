@@ -6,7 +6,7 @@ On the street, we are using CALE CWT Terminal for Cash and TOUCH ‘N GO payment
 
 For payment flexibility, we offer you an easier way to pay for parking using Smart Phone Application (JomParking) Easily pay your parking everywhere without using the terminals.
 
-For those who had to park for a long duration parking, we offer a limited monthly Digital Season Pass and Reserve Bays for every location in Kuala Lumpur by applying on-line and park freely throughout Kuala Lumpur.
+For those who had to park for a long duration parking, we offer a limited monthly Digital Season Pass and Reserve Bays for every location in Jasin by applying on-line and park freely throughout Jasin.
 
 This wide range and diversity services that we offer are the most high-end parking solution ever created and first ever in the world.
 

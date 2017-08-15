@@ -2,7 +2,7 @@
 
 ### MAKLUMAT PENTING
 
-*   Citycarpark menawarkan perkhidmatan menjual penggunaan tempat letak kereta di kawasan Wilayah Persekutuan Kuala Lumpur yang berada di bawah bidangkuasa Datuk Bandar Kuala Lumpur (“Perkhidmatan”).
+*   Citycarpark menawarkan perkhidmatan menjual penggunaan tempat letak kereta di kawasan Daerah Jasin yang berada di bawah bidangkuasa Yang Dipertua Jasin (“Perkhidmatan”).
 *   Terdapat 3 jenis letak kereta; iaitu:
     *   Letak Kereta Harian;
     *   Pas Bulanan (CalePermit); dan
@@ -19,9 +19,9 @@ a. “CityCarPark” dan “kami” merujuk kepada Yayasan Wilayah Persekutuan, 
 
 b. “GST” bermakna cukai barang dan perkhidmatan terkini yang dikenakan oleh Kerajaan Malaysia ke atas pembekalan Perkhidmatan kami;
 
-c. “Terminal” memberi maksud mesin terminal letak kereta elektronik yang dipasang di beberapa lokasi di Wilayah Persekutuan Kuala Lumpur yang telah ditentu-ukur  (calibrated) dengan kadar bayaran letak kereta  yang telah ditetapkan oleh Datuk Bandar Kuala Lumpur;
+c. “Terminal” memberi maksud mesin terminal letak kereta elektronik yang dipasang di beberapa lokasi di Daerah Jasin yang telah ditentu-ukur  (calibrated) dengan kadar bayaran letak kereta  yang telah ditetapkan oleh Yang Dipertua Jasin;
 
-d. “Petak-Petak Letak Kereta” bermakna petak-petak letak kereta di bahu jalan di persekitaran Wilayah Persekutuan Kuala Lumpur yang berada di bawah bidangkuasa Datuk Bandar Kuala Lumpur;
+d. “Petak-Petak Letak Kereta” bermakna petak-petak letak kereta di bahu jalan di persekitaran Daerah Jasin yang berada di bawah bidangkuasa Yang Dipertua Jasin;
 
 e. “Pengguna” bermakna mana-mana pengguna yang ingin letak keretanya di mana-mana Petak-Petak Letak Kereta; dan
 
@@ -65,7 +65,7 @@ iii. Applikasi Telefon WaytoPark
 
 2.2 Pas Bulanan (CalePermit)
 
-a. Datuk Bandar Kuala Lumpur telah menetapkan  beberapa pas-pas bulanan yang boleh dibeli oleh Pengguna untuk kegunaan di Petak-Petak Letak Kereta. Penjualan Pas Bulanan adalah tertakluk kepada ketersediaan dan dijual atas dasar first come first serve.
+a. Yang Dipertua Jasin telah menetapkan  beberapa pas-pas bulanan yang boleh dibeli oleh Pengguna untuk kegunaan di Petak-Petak Letak Kereta. Penjualan Pas Bulanan adalah tertakluk kepada ketersediaan dan dijual atas dasar first come first serve.
 
 b. Pas Bulanan adalah sah untuk tempoh minima selama satu (1) bulan dan untuk tempoh maksima selama tiga (3) bulan.
 
@@ -87,7 +87,7 @@ j. Pengguna dikehendaki hanya menggunakan Petak-Petak Letak Kereta yang telah di
 
 2.3 Letak Kereta Khas
 
-a. Datuk Bandar Kuala Lumpur telah menetapkan beberapa Petak-Petak Letak Kereta sebagai petak Letak Kereta Khas.  Penggunaan petak-petak Letak Kereta Khas ini boleh dibeli oleh Pengguna atas dasar first come first serve dan tertakluk kepada ketersediaan.
+a. Yang Dipertua Jasin telah menetapkan beberapa Petak-Petak Letak Kereta sebagai petak Letak Kereta Khas.  Penggunaan petak-petak Letak Kereta Khas ini boleh dibeli oleh Pengguna atas dasar first come first serve dan tertakluk kepada ketersediaan.
 
 b. Tempoh minima penggunaan adalah tiga (3) bulan dan tempoh maksima adalah sembilan (9) bulan.
 

@@ -3,7 +3,7 @@
 ### IMPORTANT
 
 
-*   Citycarpark offers for purchase the use of on-street parking spaces in the state of Wilayah Persekutuan Kuala Lumpur and under the jurisdiction of Datuk Bandar Kuala Lumpur (“Services”).
+*   Citycarpark offers for purchase the use of on-street parking spaces in the Distict of Jasin and under the jurisdiction of Yang Dipertua Jasin (“Services”).
 *   The types of parking available are:
     1.  Daily Parking;
     2.  Monthly Parking Pass and
@@ -20,8 +20,8 @@
 
 1.  “CityCarPark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 2.  “GST” means the goods and services tax currently imposed by the Government of Malaysia for providing the Services;
-3.  “Terminal” means the CityCarPark electronic parking Terminals located in various locations in the State of Wilayah Persekutuan Kuala Lumpur calibrated with the parking rates fixed by Datuk Bandar Kuala Lumpur;
-4.  “Parking Spaces” means the on-street parking spaces in the State of Wilayah Persekutuan Kuala Lumpur, Malaysia under the jurisdiction of Datuk Bandar Kuala Lumpur;
+3.  “Terminal” means the CityCarPark electronic parking Terminals located in various locations in the Distict of Jasin calibrated with the parking rates fixed by Yang Dipertua Jasin;
+4.  “Parking Spaces” means the on-street parking spaces in the Distict of Jasin, Malaysia under the jurisdiction of Yang Dipertua Jasin;
 5.  “User” means any user who would like to park in any of the Parking Spaces; and
 6.  “Working Day” means Mondays to Fridays excluding Saturday and Sunday as well as gazetted public holidays. 
 
@@ -68,7 +68,7 @@
 
 
 
-1.  Datuk Bandar Kuala Lumpur has allocated a fixed number of monthly parking passes available for purchase to be used at the Parking Spaces. Sale of the Monthly Pass is subjected to availability and is sold on a first come first serve basis.
+1.  Yang Dipertua Jasin has allocated a fixed number of monthly parking passes available for purchase to be used at the Parking Spaces. Sale of the Monthly Pass is subjected to availability and is sold on a first come first serve basis.
 2.  The Monthly Passes are valid for a minimum period of one (1) month and a maximum period of three (3) months.
 3.  Any User interested in purchasing a Monthly Pass must submit an application to us no less than 5 Working Days before the day of intended use.
 4.  Once the application has been approved, the User must make the necessary payments before the expiry of 48 hours from the time an approval notification is sent by us. All approvals are discretionary, final and cannot be challenged for any reason whatsoever.
@@ -85,7 +85,7 @@
 
 
 
-1.  Datuk Bandar Kuala Lumpur has allocated a fixed number Parking Spaces as Reserved Parking Spaces. The use of these Reserved Parking Spaces can be purchase by the User on a first come first serve basis and is subject to availability.
+1.  Yang Dipertua Jasin has allocated a fixed number Parking Spaces as Reserved Parking Spaces. The use of these Reserved Parking Spaces can be purchase by the User on a first come first serve basis and is subject to availability.
 2.  The minimum period of use is six (6) months and the maximum is twelve (12) months.
 3.  Any User interested in purchasing the use of a Reserved Parking Space must submit an application to us no less than 5 Working Days before the day of intended use.
 4.  Once the application has been approved, the User must make the necessary payments before the expiry of 48 hours from the time an approval notification is sent to the User. All approvals are discretionary, final and cannot be challenged for any reason whatsoever.

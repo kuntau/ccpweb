@@ -22,7 +22,7 @@ Ikut urutan:
 </ul>
 
 <div id="caj_parkir" class="col s12">
-  <em>(Seperti yang ditetapkan oleh DBKL)</em>
+  <em>(Seperti yang ditetapkan oleh MP Jasin)</em>
   <ul class="browser-default">
     <li>Zon A : RM1.50 Jam Pertama, RM2.50 Jam Kedua (Maksima 2 Jam)</li>
     <li>Zon B : RM1.00 (Tiada Had Masa)</li>

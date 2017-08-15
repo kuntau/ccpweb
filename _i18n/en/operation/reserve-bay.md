@@ -1,6 +1,6 @@
 #### Reserve Bays
 ##### Terms & Conditions :
-1. There’s only 10% Quota for every location’s 10% Quota for every location. (First come first serve basis) & (Dewan Bandaraya Kuala Lumpur approval & decision)
+1. There’s only 10% Quota for every location’s 10% Quota for every location. (First come first serve basis) & (Majlis Perbandaran Jasin approval & decision)
 2. Application :
     1. 1 application only designated for 1 premise only.
     2. Minimum 6 month and maximum up to 12 subsequent months.

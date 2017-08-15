@@ -1,7 +1,7 @@
 #### Petak Khas
 ##### Terma & Syarat :
 
-1. Untuk permohonan bagi setiap lokasi, hanya 10% kuota sahaja disediakan. (First come first serve basis) & (Termaktub kepada pengesahan & keputusan Dewan Bandaraya Kuala Lumpur)
+1. Untuk permohonan bagi setiap lokasi, hanya 10% kuota sahaja disediakan. (First come first serve basis) & (Termaktub kepada pengesahan & keputusan Majlis Perbandaran Jasin)
 2. Permohonan :
     1. 1 permohonan hanya untuk 1 premis sahaja.
     2. Minimum 6 bulan dan maximum sehingga 12 bulan seterusnya.
