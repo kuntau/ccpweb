@@ -13,7 +13,7 @@
 
 1.1 In this Terms and Conditions:
 
-1. “Citycarpark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Tingkat 11, Menara DBKL 3, Bandar Wawasan, Jalan Raja Abdullah, 50300 Kuala Lumpur;
+1. “Citycarpark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 2. “GST” means the goods and services tax currently imposed by the Government of Malaysia for providing the Services;
 3. “Terminal” means the Citycarpark electronic parking Terminals located in various locations in the State of Wilayah Persekutuan Kuala Lumpur calibrated with the parking rates fixed by Datuk Bandar Kuala Lumpur;
 4. “Parking Spaces” means the on-street parking spaces in the State of Wilayah Persekutuan Kuala Lumpur, Malaysia under the jurisdiction of Datuk Bandar Kuala Lumpur;
@@ -65,7 +65,7 @@
 6. All rates EXCLUDE GST and bank charges and the User shall bear these additional charges.
 7. Payments shall be made as instructed and activation of the Digital Monthly Pass is required before use. A payment notification shall be sent to the User to activate the Digital Monthly Pass.
 8. Digital season pass will be activated within three (3) working days from the day of confirmed payment is received.
-9. Parking Charges Using prepaid (Token): (value as fixed by DBKL)
+9. Parking Charges Using prepaid (Token): (value as fixed by MP Jasin)
     - Zone A : **80 Token**
     - Zone B : **50 Token **  
 Terms & Condition :
@@ -94,7 +94,7 @@ Charge :
 8. All payments are final and there shall be no refunds.
 9. The User must park at the designated Reserved Parking Space and Citycarpark shall paint the designated parking space’s border in red.
 10. User only can use reserve bay for parking purposes only.
-11. User is prohibited to use reserve bay for other purposes. (Such as:- vending, car wash etc) Except with DBKL permission.
+11. User is prohibited to use reserve bay for other purposes. (Such as:- vending, car wash etc) Except with MP Jasin permission.
 12. Users are obliged and required to buy and use Reserve Bays BARRIER STAND at designated bay for One (1) time purchase only.
 13. Bay Maintenance :
     - Users are responsible to maintain their designated bays. (such as:- Barrier Stand & Red Paint)  

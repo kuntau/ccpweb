@@ -18,7 +18,7 @@
 
 
 
-1.  “CityCarPark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Tingkat 11, Menara DBKL 3, Bandar Wawasan, Jalan Raja Abdullah, 50300 Kuala Lumpur;
+1.  “CityCarPark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 2.  “GST” means the goods and services tax currently imposed by the Government of Malaysia for providing the Services;
 3.  “Terminal” means the CityCarPark electronic parking Terminals located in various locations in the State of Wilayah Persekutuan Kuala Lumpur calibrated with the parking rates fixed by Datuk Bandar Kuala Lumpur;
 4.  “Parking Spaces” means the on-street parking spaces in the State of Wilayah Persekutuan Kuala Lumpur, Malaysia under the jurisdiction of Datuk Bandar Kuala Lumpur;

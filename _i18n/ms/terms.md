@@ -15,7 +15,7 @@
 
 1.1 Di dalam Terma dan Syarat:
 
-a. “CityCarPark” dan “kami” merujuk kepada Yayasan Wilayah Persekutuan, pembekal Perkhidmatan yang beralamat di Tingkat 11, Menara DBKL 3, Bandar Wawasan, Jalan Raja Abdullah, 50300 Kuala Lumpur;
+a. “CityCarPark” dan “kami” merujuk kepada Yayasan Wilayah Persekutuan, pembekal Perkhidmatan yang beralamat di Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 
 b. “GST” bermakna cukai barang dan perkhidmatan terkini yang dikenakan oleh Kerajaan Malaysia ke atas pembekalan Perkhidmatan kami;
 
