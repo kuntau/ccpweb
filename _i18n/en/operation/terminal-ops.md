@@ -8,9 +8,7 @@
 {: .browser-default }
 
 ##### Parking Charges :
-* Zone A : RM 1.50 1st hour and RM2.50 2nd hour (2 Hours Max).
-* Zone B : RM 1.00 per hour and next consecutive hour. (No Limit)
-* Zone C : RM 0.80 per hour and next consecutive hour. (No Limit)
+* RM 0.40 per hour
 {: .browser-default }
 
 ##### Operation Hour :

@@ -27,30 +27,3 @@ permalink_en: /operation/parking-rate.html
     </ul>
   </div>
 </div>
-<hr />
-<div class="row">
-  <div class="col s12">
-    <div id="search">
-      <h4>{% t text.search %}</h4>
-      <input type="text" placeholder="{% t text.search_placeholder %}" v-model="location_filter">
-      <table v-if="location_filter" class="bordered striped">
-        <tr>
-          <th>NO</th>
-          <th>{% t text.rate.area %}</th>
-          <th>{% t text.rate.rate %}</th>
-          <th>{% t text.rate.season_pass %}</th>
-          <th>{% t text.rate.reserve_bay %}</th>
-        </tr>
-      {% raw %}
-        <tr v-for="(loc, i) in filtered_loc">
-          <td>{{ i+1 }}</td>
-          <td>{{ loc[3] }}</td>
-          <td>{{ loc[4] }}</td>
-          <td>{{ loc[5] }}</td>
-          <td v-html="loc[6]"></td>
-        </tr>
-      {% endraw %}
-      </table>
-    </div>
-  </div>
-</div>

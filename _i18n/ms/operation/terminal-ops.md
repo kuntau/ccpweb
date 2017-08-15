@@ -8,9 +8,7 @@
 {: .browser-default }
 
 ##### Caj Letak Kereta :
-- Zon A : RM 1.50 Jam Pertama, RM 2.50 Jam Kedua (Maksima 2 Jam)
-- Zon B : RM 1.00 (Tiada Had Masa)
-- Zon C : RM 0.80 (Tiada Had Masa)
+- RM 0.40 sejam
 {: .browser-default }
 
 ##### Waktu Operasi :
