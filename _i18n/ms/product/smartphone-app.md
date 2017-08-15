@@ -24,9 +24,7 @@ Ikut urutan:
 <div id="caj_parkir" class="col s12">
   <em>(Seperti yang ditetapkan oleh MP Jasin)</em>
   <ul class="browser-default">
-    <li>Zon A : RM1.50 Jam Pertama, RM2.50 Jam Kedua (Maksima 2 Jam)</li>
-    <li>Zon B : RM1.00 (Tiada Had Masa)</li>
-    <li>Zon C : RM0.80 (Tiada Had Masa)</li>
+    <li>RM 0.40 Sejam</li>
   </ul>
 </div>
 <div id="terma_syarat" class="col s12">
@@ -34,7 +32,7 @@ Ikut urutan:
   Caj:
   <ul class="browser-default">
     <li>Termasuk 6% GST</li>
-    <li>Minima RM6.00</li>
+    <li>Minima RM 0.40</li>
     <li>Tiada bayaran balik akan diberikan bagi kecuaian pelanggan</li>
     <li>Tiada bayaran balik untuk kesalahan memasukkan nombor plat kenderaan</li>
     <li>Parkir di ruang letak kenderaan yang ditetapkan</li>

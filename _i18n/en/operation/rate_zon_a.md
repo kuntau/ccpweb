@@ -1,8 +1,9 @@
-PERMOHONAN BARU (BARRIERS STAND + CAGARAN)
+**NEW & RENEW APPLICATION**
+{: .blue-text .text-darken-1 }
 
-| No | Tempoh (Bulan) | Petak Khas (RM) | GST (Petak Khas) (RM) | Barrier Stand (RM) | GST (Barrier Stand) (RM) | Wang Cagaran (2 Bulan) (RM) | Jumlah Bayaran (RM) |
-| :--- | :---: | --- | --- | --- | --- | --- | --- |
-| 1 | 3 | 400.00 | 24.00 | 215.00 | 12.90 | 800.00 | 2,299.90 |
-| 2 | 6 | 400.00 | 24.00 | 215.00 | 12.90 | 800.00 | 3,571.90 |
-| 3 | 12 | 400.00 | 24.00 | 215.00 | 12.90 | 800.00 | 6,115.90 |
+| No   | Duration (Month) | Reserve Bay (RM) | GST (Reserve Bay) (RM) | Barrier Stand (RM) | GST (Barrier Stand) (RM) | Deposit (2 Month) (RM) | Total Amount (RM) |
+| :--- | :---:            | ---              | ---                    | ---                | ---                      | ---                    | ---               |
+| 1    | 3                | 100.00           | 6.00                   | 160.00             | 9.60                     | 200.00                 | 687.60            |
+| 2    | 6                | 100.00           | 6.00                   | 160.00             | 9.60                     | 200.00                 | 1,005.60          |
+| 3    | 12               | 100.00           | 6.00                   | 160.00             | 9.60                     | 200.00                 | 1,641.60          |
 {: .striped }

@@ -36,6 +36,9 @@ text:
     rate: Parking Rate (RM)
     season_pass: Monthly Pass Rate
     reserve_bay: Reserve Lot Rate
+    h_rb: RESERVE BAY
+    h_dsp: DIGITAL SEASON PASS
+    h_dbr: DAILY BAY RENTAL
 image_path:
   jomparking: /assets/images/product/flow_jomparking_en.png
   3step: /assets/images/product/3step_en.png

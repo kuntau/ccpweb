@@ -1,4 +1,4 @@
-| No  | Tempoh (Hari)    | Petak (RM) | GST (Petak) (RM) | Jumlah Bayaran (RM) |
+| No  | Duration (Day)    | Bay (RM) | GST (Bay) (RM) | Total Amount (RM) |
 | --- | ---              | ---        | ---              | ---                 |
-| 1   | 1 Hari (1 Petak) | 28.00      | 1.68             | 29.68               |
+| 1   | 1 Day (1 Bay) | 10.00      | 0.60             | 10.60               |
 {: .striped .responsive-table }

@@ -36,6 +36,9 @@ text:
     rate: Kadar Parkir (RM)
     season_pass: Kadar Pas Bulanan
     reserve_bay: Kadar Petak Khas
+    h_rb: PETAK KHAS
+    h_dsp: KADAR PAS BERMUSIM
+    h_dbr: SEWAAN PETAK HARIAN
 image_path:
   jomparking: /assets/images/product/flow_jomparking_ms.png
   3step: /assets/images/product/3step_ms.png

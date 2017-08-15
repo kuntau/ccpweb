@@ -22,7 +22,7 @@
 
 ##### Payment method :
 * Cash – Coins : RM0.10, RM0.20 & RM0.50 old and new coins.
-* Touch 'n Go Cards. (In Progress)
+* Touch 'n Go Cards.
 {: .browser-default }
 
 ##### Terms & Conditions :
@@ -36,7 +36,6 @@
 
 ###### Touch 'n Go (In Progress)
 * Minimum payment is 1 hour.
-* Minimum card balance RM20.00.
 * No refund will be given for customer’s negligence. No refund for entering wrong vehicle plate number.
 * Park at designated parking space.
 * In case of Terminal “Out Of Order” / not operational, please go to another terminal for coins payment.

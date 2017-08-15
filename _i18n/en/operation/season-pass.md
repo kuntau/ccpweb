@@ -31,10 +31,9 @@
 * Upon Payment Confirmation
 {: .browser-default }
 
-* Zone A season pass user can park throughout Zone A & Zone B area.
-* Zone B season pass user can park throughout Zone B area only. User had to use normal hourly payment when they park at Zone A area.
 * No refund will be given for customer’s negligence.
 * Park at designated parking space.
+{: .browser-default }
 
 ###### Enforcement :
 * Season Pass will be valid only on dedicated location/zone only.
