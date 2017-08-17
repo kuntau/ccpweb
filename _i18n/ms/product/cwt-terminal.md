@@ -20,7 +20,7 @@ Tiada syiling? Tiada Masalah. Kami menyediakan alternatif pembayaran untuk anda 
 **Lebih Baik daripada Wang Tunai, Lebih Cepat daripada Kredit**  
 Touch 'n Go adalah kad elektronik tunai prabayar. Alternatif yang sempurna kepada tunai 
 
-Apa lagi? Ianya adalah penyelesaian yang mudah selain daripada pembayaran tunai kerana ianya tidak seperti kad kredit, anda boleh menggunakan Touch 'n Go untuk pembelian serendah RM 0.50.
+Apa lagi? Ianya adalah penyelesaian yang mudah selain daripada pembayaran tunai kerana ianya tidak seperti kad kredit, anda boleh menggunakan Touch 'n Go untuk pembelian serendah RM 0.40.
 
 Ianya juga cepat. Tiada tandatangan diperlukan. Hanya “Sentuhan” mudah pada terminal pembayaran dan anda boleh pergi menjalankan aktiviti lain.
 

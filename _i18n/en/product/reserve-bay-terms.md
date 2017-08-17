@@ -13,7 +13,7 @@
 
 1.1 In this Terms and Conditions:
 
-1. “Citycarpark”, “us”, “we” and “our” refers to Yayasan Wilayah Persekutuan, the provider of the Services whose address is at Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
+1. “Citycarpark”, “us”, “we” and “our” refers to Vista Summerose Sdn Bhd, the provider of the Services whose address is at Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 2. “GST” means the goods and services tax currently imposed by the Government of Malaysia for providing the Services;
 3. “Terminal” means the Citycarpark electronic parking Terminals located in various locations in the Distict of Jasin calibrated with the parking rates fixed by Yang Dipertua Jasin;
 4. “Parking Spaces” means the on-street parking spaces in the Distict of Jasin, Malaysia under the jurisdiction of Yang Dipertua Jasin;

@@ -21,7 +21,7 @@ No Coins? No Problem. We provide this payment alternative for customer to pay pa
 **Better than cash, faster than credit**  
 The days of being weighed down by loose change are over! As your Touch 'n Go is a prepaid electronic-cash card, it’s the perfect alternative to cash.
 
-What’s more? It’s provides you with the ultimate convenience, because unlike credit cards, you can use your Touch 'n Go for purchases as low as RM0.50.
+What’s more? It’s provides you with the ultimate convenience, because unlike credit cards, you can use your Touch 'n Go for purchases as low as RM0.40.
 
 Did we mention that it’s fast too? No signature is required – just a simple ‘touch’ on the payment terminal and you’re good to go!
 

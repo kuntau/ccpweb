@@ -15,7 +15,7 @@
 
 1.1 Di dalam Terma dan Syarat:
 
-a. “CityCarPark” dan “kami” merujuk kepada Yayasan Wilayah Persekutuan, pembekal Perkhidmatan yang beralamat di Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
+a. “CityCarPark” dan “kami” merujuk kepada Vista Summerose Sdn Bhd, pembekal Perkhidmatan yang beralamat di Majlis Perbandaran Jasin, 77000 Jasin, Melaka;
 
 b. “GST” bermakna cukai barang dan perkhidmatan terkini yang dikenakan oleh Kerajaan Malaysia ke atas pembekalan Perkhidmatan kami;
 
